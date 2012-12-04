@@ -9,7 +9,7 @@ import org.grails.plugins.routing.RouteArtefactHandler
 import org.grails.plugins.routing.processor.ClosureProcessor
 
 class RoutingGrailsPlugin {
-	def version          = '1.2.2'
+	def version          = '1.2.2-camel-2.9.4'
 	def grailsVersion    = '2.0.0 > *'
 	def dependsOn        = [:]
 	def loadAfter        = [ 'controllers', 'services' ]
